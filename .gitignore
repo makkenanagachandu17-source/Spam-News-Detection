@@ -30,3 +30,6 @@ Thumbs.db
 
 # VS Code settings
 .vscode/
+
+# Ignore nested cloned repository
+Spam-News-Detection/
