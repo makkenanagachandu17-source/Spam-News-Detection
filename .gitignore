@@ -1,0 +1,32 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Generated machine learning models
+models/*.pkl
+
+# Generated reports
+reports/*.png
+reports/metrics.txt
+
+# Dataset
+dataset/*.csv
+
+# Environment variables
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
